@@ -1,9 +1,5 @@
 
 
-body {
-/*font-family: 'Roboto';*/
-}
-
 #first {
 background-color: red;
 margin-top:20px;
@@ -19,7 +15,7 @@ margin-right: 0px;
   border-bottom: 1px solid red;
 }
 
-ul {
+.padsocial{
   list-style-type: none;
   padding-left: 0;
 }
@@ -40,4 +36,8 @@ letter-spacing: 6px;
 
 .navbar-nav {
 text-align:  center;
+}
+
+.fontspace {
+  margin-top: 25px;
 }
