@@ -8,6 +8,13 @@ body{
 font-family: 'Amatic SC';
 font-weight: ;
 font-size: 1.75vw;
+
+}
+
+p{
+	font-family: 'Arial';
+	font-size: 1.25vw;
+	font-color: #c0c1c4;
 }
 
 h1 {
@@ -39,9 +46,9 @@ margin-top:40px;
 }
 
 .navbar-nav > li {
-	font-size: 5vw;
+	font-size: 4vw;
 }
 
 .dropdown-menu {
-	font-size: 4vw;
+	font-size: 3vw;
 }
