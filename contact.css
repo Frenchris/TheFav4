@@ -1,7 +1,14 @@
-
+.presentation {
+	text-align: justify;
+	 text-justify: inter-word;
+}
 
 .container-fluid{
 	background-color: white;
+}
+
+.belzebuthpicture {
+	border: 10px solid black;
 }
 
 #first {
@@ -10,8 +17,12 @@ margin-top:20px;
 margin-right: 0px;
 }
 
+.about {
+	margin-top: 3vw;
+	margin-bottom: 1.5vw;
+}
+
 .abc {
-  background-color:
   border-left: 5px solid grey;
 }
 
@@ -36,8 +47,46 @@ width: 150px;
 font-family: 'Amatic SC', cursive;
 font-size: 6vw;
 letter-spacing: 4px;
+background-color: red;
 }
 
 .navbar-nav {
 text-align:  center;
+}
+
+.form-control {
+	height: 100px;
+	border: 10px solid black;
+}
+
+#exampleFormControlInput1 {
+	font-size: 1.5vw;
+}
+
+#exampleFormControlTextarea1 {
+	height: 8vw;
+}
+
+textarea {
+	font-size: 1.5vw;
+}
+
+
+button {
+	margin-top: 35px;
+	text-align: center;
+}
+
+.submit {
+	height: 125px;
+	width: 200px;
+	font-size: 50px;
+}
+
+.fonts_title {
+	font-size: 2.5vw;
+}
+
+.fonts {
+	font-size: 1.25vw;
 }
