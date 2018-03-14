@@ -31,6 +31,13 @@
 
 .container_image:hover .overlay {
   opacity: 0.5;
+ 
+}
+
+.container_image:hover img{
+   -moz-transform: scale(2.1);
+  -webkit-transform: scale(2.1);
+  transform: scale(2.1)
 }
 
 .text {
