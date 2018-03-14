@@ -1,3 +1,53 @@
+body{
+
+background-color : white;
+/!--#D3D3D3!--/;
+}
+
+body{
+font-family: 'Amatic SC';
+}
+
+p{
+	font-family: 'Arial';
+	font-color: #c0c1c4;
+}
+
+h1 {
+font-family: 'Oswald';
+}
+
+ .carousel-inner img {
+      width: 100%;
+      height: 50%;
+  }
+
+  .belzebuth {
+font-family: 'Amatic SC', cursive;
+font-size: 6vw;
+letter-spacing: 4px;
+text-align: center;
+}
+
+#intros, #intros2{
+
+margin-top:40px;
+
+}
+
+#rourou{
+	height: 10px;
+	width: 100%;
+}
+
+.navbar-nav > li {
+	font-size: 4vw;
+}
+
+.dropdown-menu {
+	font-size: 3vw;
+}
+
 
 /* CSS OVERLAY HOME */
 
