@@ -34,11 +34,6 @@
  
 }
 
-.container_image:hover img{
-   -moz-transform: scale(2.1);
-  -webkit-transform: scale(2.1);
-  transform: scale(2.1)
-}
 
 .text {
   color: black;
