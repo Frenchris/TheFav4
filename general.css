@@ -135,3 +135,13 @@ margin-top:40px;
 	font-size: 3vw;
 }
 
+.fb-ic, .tw-ic, .ins-ic, .pin-ic {
+  font-size: 3vw;
+}
+
+.copy {
+  font-size: 2vw;
+}
+
+footer {
+  margin-top: 50px;
