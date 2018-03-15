@@ -23,7 +23,7 @@ margin-right: 0px;
 }
 
 .abc {
-  border-left: 5px solid grey;
+  border-left: 1px solid #444444 ;;
 }
 
 .border-bottom {
@@ -40,7 +40,8 @@ padding-top: 30px;
 }
 
 .submit {
-width: 150px;
+background-color: orange;
+border-color: orange;
 }
 
 .belzebuth {
@@ -60,11 +61,13 @@ text-align:  center;
 
 #exampleFormControlInput1 {
 	font-size: 1.5vw;
+	border: 1px solid #444444 ;
 }
 
 
 #exampleFormControlTextarea1 {
 	height: 8vw;
+	border: 1px solid #444444 ;
 }
 
 textarea {
@@ -84,7 +87,7 @@ button {
 }
 
 .fonts_title {
-	font-size: 2.5vw;
+	font-size: 1.5vw;
 }
 
 .fonts {

@@ -84,15 +84,21 @@
 /* CSS OVERLAY HOME */
 
 
-.nav-item{
+.nav-item, .navbar-item{
 
-	font-size:2.5vw;
+	font-size: 20px;
+  padding-right: 20px;
+  padding-left: ;
 }
 
+.logoWhite {
+color: #F1EDEB;
+}
 
 
 h1{
 font-family: 'Amatic SC';
+font-size: 60px;
 }
 
 p{
@@ -100,9 +106,7 @@ p{
 	font-color: #c0c1c4;
 }
 
-body {
-font-family: 'Oswald';
-}
+/*body (police à définir !)*/
 
  .carousel-inner img {
       width: 100%;
@@ -125,10 +129,16 @@ margin-top:40px;
 #rourou{
 	height: 10px;
 	width: 100%;
+  margin-top: 50px;
+}
+
+.navbar {
+   background-color: #F1EDEB;
 }
 
 .navbar-nav > li {
 	font-size: 4vw;
+
 }
 
 .dropdown-menu {
@@ -145,3 +155,4 @@ margin-top:40px;
 
 footer {
   margin-top: 50px;
+
