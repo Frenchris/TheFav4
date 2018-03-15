@@ -18,8 +18,8 @@ margin-right: 0px;
 }
 
 .about {
-	margin-top: 3vw;
-	margin-bottom: 1.5vw;
+	margin-top: 5px;
+	margin-bottom: 3px;
 }
 
 .abc {
@@ -70,12 +70,12 @@ text-align:  center;
 	border: 1px solid #444444 ;
 }
 
-textarea {
+.textarea {
 	font-size: 1.5vw;
 }
 
 
-button {
+.shame {
 	margin-top: 35px;
 	text-align: center;
 }
@@ -87,9 +87,9 @@ button {
 }
 
 .fonts_title {
-	font-size: 1.5vw;
+	font-size: 20px;
 }
 
 .fonts {
-	font-size: 1.25vw;
+	font-size: 15px;
 }
