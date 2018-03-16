@@ -145,7 +145,7 @@ margin-top:40px;
 	font-size: 3vw;
 }
 
-.fb-ic, .tw-ic, .ins-ic, .pin-ic {
+.fb-ic, .tw-ic, .ins-ic, .pin-ic, .link-ic {
   font-size: 3vw;
 }
 
@@ -155,4 +155,4 @@ margin-top:40px;
 
 footer {
   margin-top: 50px;
-
+}
