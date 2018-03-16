@@ -7,9 +7,9 @@
 	background-color: white;
 }
 
-.belzebuthpicture {
+/*.belzebuthpicture {
 	border: 10px solid black;
-}
+}*/
 
 #first {
 
@@ -23,12 +23,12 @@ margin-right: 0px;
 }
 
 .abc {
-  border-left: 1px solid #444444 ;;
+  border-left: 1px solid #444444 ;
 }
 
-.border-bottom {
+/*.border-bottom {
   border-bottom: 1px solid red;
-}
+}*/
 
 ul {
   list-style-type: none;
@@ -45,7 +45,7 @@ border-color: orange;
 }
 
 .belzebuth {
-font-family: 'Amatic SC', cursive;
+/*font-family: 'Amatic SC', cursive;*/
 font-size: 6vw;
 letter-spacing: 4px;
 }
@@ -87,7 +87,8 @@ text-align:  center;
 }
 
 .fonts_title {
-	font-size: 20px;
+	font-size: 30px;
+	font-weight: bold;
 }
 
 .fonts {
